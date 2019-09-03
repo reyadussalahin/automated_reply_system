@@ -1,0 +1,6 @@
+venv/
+model.npz
+data/
+datadir/*/
+datadir/*.txt
+datadir/*.pkl
